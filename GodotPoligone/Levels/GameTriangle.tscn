@@ -5,8 +5,7 @@
 [node name="GameTriangle" type="Node2D"]
 script = ExtResource( 1 )
 StartRadius = 350.0
-CountPoints = 3
-Precision = 500
+CountPoints = 6
+Precision = 20000
 MainPointSize = 10.0
 RecursivePointSize = 3.0
-StartAngle = -45.0
